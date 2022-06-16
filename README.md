@@ -17,3 +17,5 @@ and how to display it.
 
 Repo can be downloaded at; https://github.com/macksm3/DictionaryData.git
 
+    git clone https://github.com/macksm3/DictionaryData.git
+
